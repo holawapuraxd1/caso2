@@ -1,0 +1,13 @@
+section table {
+    border: 5px solid black; /* Borde sólido de 2px de grosor en color negro */
+    border-collapse: collapse; /* Colapsar los bordes para una apariencia más limpia */
+    width: 1000px; /* Ancho de la tabla */
+    margin: 0 auto; /* Centrar la tabla horizontalmente */
+}
+section table td {
+    border: 1px solid rgb(222, 44, 44); /* Borde sólido de 1px de grosor en color gris */
+    padding: 10px; /* Espaciado interior de las celdas */
+}
+section table td img {
+    border: 1px solid black; /* Borde sólido de 1px de grosor en color negro */
+}
